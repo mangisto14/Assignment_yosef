@@ -1,5 +1,4 @@
-{
-  "Users": [
+ [
     {
       "userId": "7b1562a7-24ae-4768-a10c-206fd2ffcf96",
       "userName": "jane_smith",
@@ -10,5 +9,5 @@
       "userName": "john_doe",
       "userPassword": "securepass"
     }
-  ]
-}
+]
+
